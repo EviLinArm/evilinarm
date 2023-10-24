@@ -9,7 +9,7 @@
 **Хранение**: Pinia, Effector JS, Redux (ToolKit)\
 **Менеджеры зависимостей**: NPM, Yarn\
 **Тесты**: Unit, Screenshot\
-**Прочее**: StoyBook, Git, i18n, REST API, JSON, Figma
+**Прочее**: StoryBook, Git, i18n, REST API, JSON, Figma
 
 # 💬 Связаться со мной
 Почта: zakharenko07@gmail.com | [Telegram](https://t.me/evilinarm)
