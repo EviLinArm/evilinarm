@@ -3,7 +3,7 @@
 
 # ⚙️ Стек  
 **Язык**: JavaScript, Typescipt\
-**Фреймворки**: React JS, Vue JS\
+**Фреймворки**: React JS, Vue JS, Next JS, Nuxt JS\
 **Архитектура**: MVVM\
 **Верстка**: CSS, SCSS, Tailwind CSS, styled-components \
 **Хранение**: Pinia, Effector JS, Redux (ToolKit)\
