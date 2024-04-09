@@ -8,7 +8,7 @@
 **Верстка**: CSS, SCSS, Tailwind CSS, styled-components \
 **Хранение**: Pinia, Effector JS, Redux (ToolKit)\
 **Менеджеры зависимостей**: NPM, Yarn\
-**Тесты**: Unit, Screenshot\
+**Тесты**: Unit, Screenshot, E2E\
 **Прочее**: StoryBook, Git, i18n, REST API, JSON, Figma
 
 # 💬 Связаться со мной
